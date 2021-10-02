@@ -1,0 +1,11 @@
+Why is Java a platform independent language? 
+1-The meaning of platform-independent is that the java compiled code(byte code) can run on all operating systems.
+2-A program is written in a language that is a human-readable language. It may contain words, phrases, etc which the machine
+ does not understand. 
+3-For the source code to be understood by the machine, it needs to be in a language understood by machines, typically 
+a machine-level language. So, here comes the role of a compiler.
+4-The compiler converts the high-level language (human language) into a format understood by the machines. 
+5-Therefore, a compiler is a program that translates the source code for another program from a programming language into executable code.
+6-This executable code may be a sequence of machine instructions that can be executed by the CPU directly, or it may be an intermediate representation that is interpreted by a virtual machine.
+ This intermediate representation in Java is the Java Byte Code.
+7-In the case of Java, it is the magic of Bytecode that makes it platform independent.
