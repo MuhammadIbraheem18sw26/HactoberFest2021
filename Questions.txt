@@ -1,0 +1,16 @@
+Q1:What is implicit & explicit type casting?
+Q2:Why is Java a platform independent language? 
+Q3:What do you understand by an instance variable and a local variable?
+Q4:What is the difference between JDK, JRE, and JVM?
+Q5:What are the various access specifiers in Java?
+Q6:What is difference between SQL and NoSQL Databases?
+Q7:What is XML?
+Q8:Define Clustering in Machine Learning. 
+Q9:What is Singleton Design Pattern?
+Q10:What is Brust Time?
+Q11:What is Hadoop?
+Q12:Write a query to get all the Students from student tabel in oracle.
+Q13:What is an ER diagram?
+Q14:What is numpy?
+Q15:what is pandas?
+ 
