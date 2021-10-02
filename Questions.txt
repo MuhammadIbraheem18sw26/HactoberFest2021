@@ -1,4 +1,8 @@
 Q1:What is implicit & explicit type casting?
+A: implicit casting: compiler understands the casting from 1 data type to the other.
+explicit casting: programmer makes the forced casting
+e.g: int b= (float) 3;
+
 Q2:Why is Java a platform independent language? 
 Q3:What do you understand by an instance variable and a local variable?
 Q4:What is the difference between JDK, JRE, and JVM?
