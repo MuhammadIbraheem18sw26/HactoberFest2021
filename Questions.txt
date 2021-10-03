@@ -12,6 +12,7 @@ Q11:What is Hadoop?
 Q12:Write a query to get all the Students from student tabel in oracle.
 Q13:What is an ER diagram?
 Q14:What is numpy?
+A: NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays
 Q15:what is pandas?
 A: pandas is a software library written for the Python programming language for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series
  
