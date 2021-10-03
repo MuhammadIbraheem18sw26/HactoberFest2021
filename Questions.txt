@@ -13,7 +13,10 @@ Q6:What is difference between SQL and NoSQL Databases?
 Q7:What is XML?
 Ans: The Extensible Markup Language (XML) is a simple text-based format for representing structured information: documents, data, configuration, books, transactions, invoices, and much more.
 
-Q8:Define Clustering in Machine Learning. 
+Q8:Define Clustering in Machine Learning.
+Ans:Clustering or cluster analysis is a machine learning technique, which groups the unlabelled dataset. It can be defined as "A way of grouping the data points into different clusters, consisting of similar data points.
+
+
 Q9:What is Singleton Design Pattern?
 Q10:What is Brust Time?
 
