@@ -5,6 +5,8 @@ e.g: int b= (float) 3;
 
 Q2:Why is Java a platform independent language? 
 Q3:What do you understand by an instance variable and a local variable?
+A : Instance variable : variable that is declared in a class but outside a method.
+Local variable : variable declared within a method or a constructor.
 Q4:What is the difference between JDK, JRE, and JVM?
 Q5:What are the various access specifiers in Java?
 Q6:What is difference between SQL and NoSQL Databases?
