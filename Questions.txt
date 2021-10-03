@@ -18,8 +18,12 @@ Ans:Clustering or cluster analysis is a machine learning technique, which groups
 
 
 Q9:What is Singleton Design Pattern?
+A: Use the Singleton pattern when a class in your program should have just a single instance available to all clients; for example, a single database object shared by different parts of the program.
+ The Singleton pattern disables all other means of creating objects of a class except for the special creation method.
 Q10:What is Brust Time?
 
+A:  Burst Time refers to the time required in milli seconds by a process for its execution. The Burst Time takes into consideration the CPU time of a process.
+    The I/O time is not taken into consideration. It is called as the execution time or running time of the process.
 Q11:What is Hadoop?
 
 Ans: Apache Hadoop is a collection of open-source software utilities that facilitates using a network of many computers to solve problems involving massive amounts of data and computation. It provides a software framework for distributed storage and processing of big data using the MapReduce programming model.
