@@ -16,6 +16,8 @@ Ans: The Extensible Markup Language (XML) is a simple text-based format for repr
 Q8:Define Clustering in Machine Learning. 
 Q9:What is Singleton Design Pattern?
 Q10:What is Brust Time?
+A:  Burst Time refers to the time required in milli seconds by a process for its execution. The Burst Time takes into consideration the CPU time of a process.
+    The I/O time is not taken into consideration. It is called as the execution time or running time of the process.
 Q11:What is Hadoop?
 Q12:Write a query to get all the Students from student tabel in oracle.
 Q13:What is an ER diagram?
