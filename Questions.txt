@@ -11,6 +11,8 @@ Q4:What is the difference between JDK, JRE, and JVM?
 Q5:What are the various access specifiers in Java?
 A: public,private,default and protected.
 Q6:What is difference between SQL and NoSQL Databases?
+A: sql databases are table based and non-sql databases are document or key value.
+Sql databases are reational databases while No-sql databases are non-rational.
 Q7:What is XML?
 Ans: The Extensible Markup Language (XML) is a simple text-based format for representing structured information: documents, data, configuration, books, transactions, invoices, and much more.
 
