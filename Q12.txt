@@ -1,0 +1,2 @@
+Q12:Write a query to get all the Students from student tabel in oracle.
+A: SELECT * FROM student;
