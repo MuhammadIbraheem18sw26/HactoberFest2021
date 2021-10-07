@@ -1,10 +1,13 @@
+
+//programm to find factorial by iteration
+
 fun main(args: Array<String>) {
 
-    val num = 10
-    var factorial: Long = 1
+    val num = 30
+    var factorial = BigInteger.ONE
     for (i in 1..num) {
         // factorial = factorial * i;
-        factorial *= i.toLong()
+        factorial = factorial.multiply(BigInteger.valueOf(num.toLong()))
     }
     println("Factorial of $num = $factorial")
 }
