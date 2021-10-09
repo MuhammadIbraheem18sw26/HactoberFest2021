@@ -33,6 +33,9 @@ Ans: Apache Hadoop is a collection of open-source software utilities that facili
 
 Q12:Write a query to get all the Students from student tabel in oracle.
 Q13:What is an ER diagram?
+Answer: An entity relationship diagram (ERD) shows the relationships of entity sets stored in a database. An entity in this context is an object, a component of data. An entity set is a collection of similar entities. These entities can have attributes that define its properties.
+        ER diagrams are used to sketch out the design of a database.
+
 Q14:What is numpy?
 A: NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays
 Q15:what is pandas?
